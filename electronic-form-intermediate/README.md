@@ -79,8 +79,10 @@ electronic-form-intermediate/
 └─ フォームUI選択辞書.md   ← UIパーツ辞書（必ずAIに添付）
 ```
 
-## 該当スライド
-このプロンプトを利用した、2025年11月に熊本市様向けに行ったUIデザイン研修ワークショップのスライド
-<script defer class="speakerdeck-embed" data-id="baf7d98f542b4286aa3fb9e8a63c0f43" data-ratio="1.7777777777777777" src="//speakerdeck.com/assets/embed.js"></script>
+## 補足資料
+このプロンプトを利用した、2025年11月に熊本市様向けに行ったUIデザイン研修ワークショップのスライドを公開しています
+
+[![公開スライド](image/slide.png) ](https://speakerdeck.com/garyuten/gong-kai-suraido-xiong-ben-shi-yang-dian-zi-shen-qing-zhong-ji-bian)
+
 ## 問い合わせ先
 合同会社CGFM info@cgfm.jp
