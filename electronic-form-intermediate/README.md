@@ -81,7 +81,6 @@ electronic-form-intermediate/
 
 ## 該当スライド
 このプロンプトを利用した、2025年11月に熊本市様向けに行ったUIデザイン研修ワークショップのスライド
-<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/baf7d98f542b4286aa3fb9e8a63c0f43" title="公開スライド）熊本市様-電子申請中級編" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
-
+<script defer class="speakerdeck-embed" data-id="baf7d98f542b4286aa3fb9e8a63c0f43" data-ratio="1.7777777777777777" src="//speakerdeck.com/assets/embed.js"></script>
 ## 問い合わせ先
 合同会社CGFM info@cgfm.jp
