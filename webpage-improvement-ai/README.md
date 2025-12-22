@@ -20,17 +20,26 @@
 ---
 
 ## ✔ 事前準備
-**事前に読み込ませる必須ファイルは 1 つだけ**です。
+
+**必ず読み込ませる必要があるファイルは 1 つだけです。**
 
 1. **改善対象の Web ページ（URL / HTML / PDF）【必須】**
 
-（推奨）精度を上げるために、“自治体のホームページ運用ガイドライン PDF” を添付すること
+必要最低限の動作はこれだけで可能です。
 
-### 📘 任意で読み込ませると精度が上がるもの
+---
 
-- 自治体独自の **ホームページ運用ガイドライン** (PDF等)
-- デジタル庁の **標準ガイドライン**（URL 参照でも OK）  
-   [https://www.digital.go.jp/resources/standard_guidelines](https://www.digital.go.jp/resources/standard_guidelines?utm_source=chatgpt.com)
+### 📘（推奨）精度を高めたい場合は、次の PDF も読み込ませてください
+
+自治体の実務では、ページ構造・表現ルールの品質担保が重要なため、  
+ガイドラインを併せて読み込ませることで Step2・Step3 の精度が向上します。
+
+- 自治体独自の **ホームページ運用ガイドライン（PDF等）**
+- デジタル庁の [デジタル社会推進標準ガイドライン](https://www.digital.go.jp/resources/standard_guidelines) からウェブサイト関連の推奨ガイドライン
+  - [DS-680.1 ウェブサイトガイドライン（PDF）](https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/cbd5b6f6/20250930_website_guidelines.pdf)
+  - [DS-680.2 ウェブコンテンツガイドライン（PDF）](https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/a02f877e/20250930_web_content_guidelines.pdf)
+  - [DS-670.1 ユーザビリティガイドライン（PDF）](https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae97c671/20250930_usability_guidelines.pdf)
+
 
 ---
 
